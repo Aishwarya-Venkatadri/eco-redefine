@@ -1,7 +1,7 @@
 # eco-redefine
 
 # Project Title
-"EcoRedefine - Redefining Ownership, Reducing Waste"
+"EcoRedefine - "Reducing Waste, Redefining Ownership"
 
 ## Overview
 
